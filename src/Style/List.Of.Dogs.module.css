@@ -1,0 +1,33 @@
+.wrapper_page{
+   margin-top: 40px;
+   width: 350px;
+}
+.title_page{
+   font-size: 34px;
+   margin-left: 20px;
+}
+
+.wrapper_li{
+   text-align: center;
+}
+.title_subBreed:hover {
+   background: rgba(3, 3, 3, 0.452);
+   box-shadow: 0 0 30px rgba(0, 0, 0, 0.849);
+   color: white;
+}
+
+.title_subBreed {
+   color: black;
+   list-style-type: none;
+   font-size: 28px;
+   padding: 5px;
+   border-bottom: 1px solid black;
+}
+.link_subBreed {
+   color: black;
+   text-decoration: none;
+
+}
+.link_subBreed:hover {
+   color: #8b8b8b;
+}
