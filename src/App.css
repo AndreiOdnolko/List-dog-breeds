@@ -1,11 +1,29 @@
-.App {
-  text-align: center;
+.wrapper_menu {
+  display: flex;
+  border-bottom: 1px solid black;
+  box-shadow: 0 0 20px black;
+  background: rgba(0, 0, 0, 0.829);
+  height: 70px;  
+  align-items: center;
+}
+.logo {
+  width: 40px;
+  height: 40px;
+  margin: 20px;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
+.title_name {
+  color: white;
+  padding: 10px;
+  font-size: 20px;
+  text-decoration: none;  
 }
+
+.title_name:hover{
+  color: rgb(131, 130, 130);
+  border-bottom: 1px solid rgb(138, 138, 138);
+}
+
 
 .App-header {
   background-color: #282c34;

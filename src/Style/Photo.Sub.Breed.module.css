@@ -1,0 +1,13 @@
+.wrapper_photo{
+  width: 300px;
+  margin: 0 auto;
+  
+}
+.img_photo{
+  border: 3px solid black;
+  border-radius: 5px;
+  box-shadow: 0 0 50px rgba(0, 0, 0, 0.87);
+  position: absolute;
+  left: 650px;
+  top: 180px;
+}
