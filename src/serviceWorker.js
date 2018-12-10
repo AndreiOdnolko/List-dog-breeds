@@ -9,7 +9,9 @@
 
 // To learn more about the benefits of this model and instructions on how to
 // opt-in, read http://bit.ly/CRA-PWA
-
+/* eslint-disable no-console */
+/* eslint-disable no-use-before-define */
+/* eslint-disable no-param-reassign */
 const isLocalhost = Boolean(
   window.location.hostname === 'localhost'
     // [::1] is the IPv6 localhost address.
